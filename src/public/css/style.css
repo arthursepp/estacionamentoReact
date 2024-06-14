@@ -1,0 +1,17 @@
+.card {
+    width: 370px;
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05); /* Aumenta o tamanho em 20% quando o mouse passa sobre o elemento */
+  }
+
+.form {
+    width: 400px;
+}
+
+.cardinline {
+    display: inline-block;
+}
+  
